@@ -1,4 +1,4 @@
-package com.example.flutter_social_media
+package io.github.aedorado.days_until
 
 import io.flutter.embedding.android.FlutterActivity
 
